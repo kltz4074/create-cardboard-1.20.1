@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "cardboard",
+	"version": "${version}",
+	"name": "create-cardboard",
+	"description": "adds cardboard from create",
+	"authors": [
+		"kltzqu"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.kltzqu.cardboard.Createcardboard"
+		],
+		"fabric-datagen": [
+			"com.kltzqu.cardboard.CreatecardboardDataGenerator"
+		]
+	},
+	"mixins": [
+		"cardboard.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

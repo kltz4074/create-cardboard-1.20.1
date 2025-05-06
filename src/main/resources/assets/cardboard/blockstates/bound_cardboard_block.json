@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cardboard:block/bound_cardboard_block"
+    }
+  }
+}
