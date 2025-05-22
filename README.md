@@ -1,1 +1,1 @@
-this mod adds cardboard from create 1.21.1 to minecraft 1.20.1
+this mod adds cardboard from create forge to fabric
