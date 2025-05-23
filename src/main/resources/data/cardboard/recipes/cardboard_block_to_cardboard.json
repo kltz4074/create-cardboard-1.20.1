@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "cardboard:cardboard_block"
+    }
+  ],
+  "result": {
+    "item": "cardboard:cardboard",
+    "count": 9
+  }
+}

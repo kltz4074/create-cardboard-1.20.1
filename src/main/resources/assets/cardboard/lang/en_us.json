@@ -1,6 +1,7 @@
 {
   "item.cardboard.cardboard": "Cardboard",
   "itemgroup.cardboard": "cardboard tab",
+  "item.cardboard.pulp": "Pulp",
   "block.cardboard.cardboard_block": "cardboard block",
   "block.cardboard.bound_cardboard_block": "bound cardboard block"
 }

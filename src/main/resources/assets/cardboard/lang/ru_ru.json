@@ -1,5 +1,6 @@
 {
   "item.cardboard.cardboard": "картон",
+  "item.cardboard.pulp": "древесная масса",
   "itemgroup.cardboard": "картон",
   "block.cardboard.cardboard_block": "блок картона",
   "block.cardboard.bound_cardboard_block": "упакованый блок картона"

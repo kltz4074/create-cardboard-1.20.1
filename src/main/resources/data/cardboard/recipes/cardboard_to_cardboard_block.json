@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cardboard:cardboard"
+    }
+  },
+  "result": {
+    "item": "cardboard:cardboard_block"
+  }
+}

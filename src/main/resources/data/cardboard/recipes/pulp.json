@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "cardboard:pulpifable"
+    },
+    {
+      "tag": "cardboard:pulpifable"
+    },
+    {
+      "tag": "cardboard:pulpifable"
+    },
+    {
+      "tag": "cardboard:pulpifable"
+    },
+    {
+      "amount": 20250,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "cardboard:pulp"
+    }
+  ]
+}

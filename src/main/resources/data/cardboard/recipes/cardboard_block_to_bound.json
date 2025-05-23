@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PS"
+  ],
+  "key": {
+    "P": {
+      "item": "cardboard:cardboard_block"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "cardboard:bound_cardboard_block",
+    "count": 1
+  }
+}

@@ -14,6 +14,8 @@ public class ModItems {
 
     public static final Item CARDBOARD = registerItem("cardboard", new Item(new FabricItemSettings()));
 
+    public static final Item PULP = registerItem("pulp", new Item(new FabricItemSettings()));
+
     private static void addItemsToEngridientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(CARDBOARD);
     }
